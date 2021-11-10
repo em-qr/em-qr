@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ella-May!
 - I’m interested in coding, computers, horse riding and anything outside
-- I've completed HTML, CSS, JavaScript, Python and can't wait to learn more!
+- I'm experianced with HTML, CSS, JavaScript, Python and can't wait to learn more!
 
 <!---
 em-qr/em-qr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
